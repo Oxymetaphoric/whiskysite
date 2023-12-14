@@ -56,10 +56,25 @@
   margin-bottom: 30px;
 }
 
+/* page headers  */
+
+.page-header {
+  margin-bottom: 0;
+  border-bottom: 0;
+  text-align: center;
+}
+
+.page-header h2 {
+  margin-top: 0;
+}
+
+/* block divider */
+
 .block-divider {
   width: 75px;
   height: 5px;
   border: 0;
+  background-color: #f05f40;
 }
 
 .block-divider--orange {
@@ -68,6 +83,13 @@
 
 .block-divider--short {
   width: 35px;
+}
+
+/* content containers */
+
+.content-container {
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 
 /* nav bar */
