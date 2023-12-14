@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto");
 
-.alert-container {
-}
+/*.alert-container {
+}*/
 
 .callout-container {
   height: 100vh;
@@ -26,12 +26,12 @@
   width: 100%;
   background-color: rgba(0, 0, 0, 0.5);
 }
-
+/*
 .quotes-container {
 }
 
 .features-container {
-}
+}*/
 
 /* Jumbotron! */
 
