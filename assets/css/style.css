@@ -70,6 +70,50 @@
   width: 35px;
 }
 
+/* nav bar */
+
+.navalert-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 0;
+  z-index: 1;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.navbar .navbar-toggler {
+  border: 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav a {
+  font-weight: bold;
+}
+
+.alert-container col-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.site-wide-alert {
+  border-radius: 0;
+  margin-bottom: 0;
+  padding: 5px 15px;
+  border-color: #eec802;
+  background-color: #eec802;
+}
+
+/* page header */
+
 /*buttons */
 
 .btn--cta {
