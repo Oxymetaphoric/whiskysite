@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto");
 
-.alert-container {
+/* .alert-container {
 }
-
+*/
 .alert-container a {
   text-decoration: none;
   color: #aa391f;
@@ -45,11 +45,11 @@
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {
+/* .quotes-container {
 }
 
 .features-container {
-}
+} */
 
 /* Jumbotron! */
 
