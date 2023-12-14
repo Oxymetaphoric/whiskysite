@@ -1,7 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto");
 
-/*.alert-container {
-}*/
+.alert-container {
+}
+
+.alert-container a {
+  text-decoration: none;
+  color: #aa391f;
+}
+
+.alert-container a:hover {
+  color: #f05f45;
+}
 
 .container-wrapper {
   background-color: white;
@@ -35,12 +44,12 @@
   width: 100%;
   background-color: rgba(0, 0, 0, 0.5);
 }
-/*
+
 .quotes-container {
 }
 
 .features-container {
-}*/
+}
 
 /* Jumbotron! */
 
@@ -75,6 +84,10 @@
 
 .page-header h2 {
   margin-top: 0;
+}
+
+.quotes .page-header {
+  margin-bottom: 25px;
 }
 
 /* block divider */
@@ -181,4 +194,14 @@
   margin-bottom: 20px;
   font-size: 45px;
   line-height: 45px;
+}
+
+.feature .btn {
+  background-color: white;
+  border-color: white;
+  border-radius: 15px;
+  min-width: 100px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #f05f40;
 }
