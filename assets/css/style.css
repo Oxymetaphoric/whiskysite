@@ -3,6 +3,14 @@
 /*.alert-container {
 }*/
 
+.container-wrapper {
+}
+
+.container-wrapper--red {
+  background-color: #f05f40;
+  color: white;
+}
+
 .callout-container {
   height: 100vh;
 
